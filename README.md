@@ -3,5 +3,6 @@ MiniCalendar
 
 Demo Image:
 
-![demo img](https://github.com/diegolazarocs/MiniCalendar/assets/111025421/0e79106a-c9b7-4138-a767-1f465eeb83bd)
+![image](https://github.com/user-attachments/assets/209fb40f-5fab-4c6c-8c66-c0807b643475)
+
 
